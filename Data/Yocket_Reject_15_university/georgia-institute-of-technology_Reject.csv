@@ -1,0 +1,133 @@
+,student_name,University_name,year_applying,Status,GRE,GRE_SCORE,Eng_test,Test_score,Undergraduation,Undergraduation_score,is_work_ex,work_ex
+0,VIEW ALL EVENTS,,,,,,,,,,,
+1,Q) What is Fast Track Event?,You can register online or by phone or by mail. The detailed information about registering for the GRE can be found at www.yocket.in,,,,,,,,,,
+2,Priya Nayak,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,335 ,TOEFL,113 ,UNDERGRAD,8.02 CGPA ,WORK EX,NA
+3,shubham sanghavi,Georgia Institute of Technology Computer Science,Spring 2019 ,Reject,GRE,333 ,TOEFL,110 ,UNDERGRAD,8.65 CGPA ,WORK EX,36 months
+4,aakash shah,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,318 ,TOEFL,109 ,UNDERGRAD,8.702 CGPA ,WORK EX,NA
+5,Dhruv Mongia,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,109 ,UNDERGRAD,8.66 CGPA ,WORK EX,9 months
+6,Raj Shrivastava,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,324 ,TOEFL,108 ,UNDERGRAD,82.3 % ,WORK EX,6 months
+7,Mohit Kalra,Georgia Institute of Technology Computer Science,Fall 2018 ,Reject,GRE,324 ,TOEFL,110 ,UNDERGRAD,9.1 CGPA ,WORK EX,28 months
+8,Amulya Katti,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,N.A. ,ENG TEST,NA ,UNDERGRAD,9.46 CGPA ,WORK EX,NA
+9,Apoorva Muthineni,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,322 ,TOEFL,105 ,UNDERGRAD,8.55 CGPA ,WORK EX,NA
+10,aayush dua,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,320 ,TOEFL,105 ,UNDERGRAD,9.14 CGPA ,WORK EX,2 months
+11,Anurag Jalan,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,325 ,TOEFL,117 ,UNDERGRAD,63.13 % ,WORK EX,NA
+12,Akanksha Bhushan,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,317 ,TOEFL,110 ,UNDERGRAD,9.48 CGPA ,WORK EX,33 months
+13,Akash Nair,Georgia Institute of Technology Computer Science,Fall 2018 ,Reject,GRE,326 ,TOEFL,107 ,UNDERGRAD,7.96 CGPA ,WORK EX,12 months
+14,Siddharth Dekhane,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,104 ,UNDERGRAD,9.5 CGPA ,WORK EX,NA
+15,rohith p,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,309 ,TOEFL,107 ,UNDERGRAD,68.3 % ,WORK EX,26 months
+16,Aditya Gaikwad,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,106 ,UNDERGRAD,9.05 CGPA ,WORK EX,4 months
+17,Akshay Kumar,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,104 ,UNDERGRAD,8.25 CGPA ,WORK EX,5 months
+18,Rushikesh Joshi,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,330 ,TOEFL,112 ,UNDERGRAD,8.4 CGPA ,WORK EX,2 months
+19,Nidhin Anisham,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,324 ,TOEFL,108 ,UNDERGRAD,8.46 CGPA ,WORK EX,20 months
+20,Shubham Gupta,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,324 ,TOEFL,115 ,UNDERGRAD,7.91 CGPA ,WORK EX,39 months
+21,Hrushi Kothikar,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,320 ,TOEFL,107 ,UNDERGRAD,7.7 CGPA ,WORK EX,15 months
+22,VIEW ALL EVENTS,,,,,,,,,,,
+23,Q) What is Fast Track Event?,You can register online or by phone or by mail. The detailed information about registering for the GRE can be found at www.yocket.in,,,,,,,,,,
+24,MSS,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,330 ,TOEFL,111 ,UNDERGRAD,7.54 CGPA ,WORK EX,16 months
+25,SOMIL GUPTA,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,327 ,ENG TEST,NA ,UNDERGRAD,8.84 CGPA ,WORK EX,16 months
+26,NIKHIL THAKURDESAI,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,323 ,TOEFL,100 ,UNDERGRAD,7.55 CGPA ,WORK EX,1 month
+27,Harish Kandala,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,325 ,TOEFL,108 ,UNDERGRAD,9.06 CGPA ,WORK EX,23 months
+28,adit,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,317 ,TOEFL,113 ,UNDERGRAD,9.1 CGPA ,WORK EX,6 months
+29,chetana sharma,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,103 ,UNDERGRAD,81.9 % ,WORK EX,33 months
+30,Sanchay Gupta,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,327 ,TOEFL,108 ,UNDERGRAD,9.07 CGPA ,WORK EX,NA
+31,Anirudh Swaminathan,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,334 ,TOEFL,111 ,UNDERGRAD,9.08 CGPA ,WORK EX,7 months
+32,aneri shah,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,114 ,UNDERGRAD,9.01 CGPA ,WORK EX,5 months
+33,Siddharth Divi,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,324 ,TOEFL,111 ,UNDERGRAD,8.86 CGPA ,WORK EX,1 month
+34,Shrikant Jagtap,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,316 ,TOEFL,104 ,UNDERGRAD,9.2 CGPA ,WORK EX,20 months
+35,Nidhi Bhandari,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,319 ,TOEFL,108 ,UNDERGRAD,8.9 CGPA ,WORK EX,NA
+36,Anna Shekhawat,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,329 ,TOEFL,108 ,UNDERGRAD,8.78 CGPA ,WORK EX,21 months
+37,Varun Jain,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,327 ,TOEFL,114 ,UNDERGRAD,9.37 CGPA ,WORK EX,5 months
+38,Apremeyan Iyer,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,320 ,TOEFL,111 ,UNDERGRAD,8.4 CGPA ,WORK EX,3 months
+39,Apoorva Gokhale,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,331 ,TOEFL,114 ,UNDERGRAD,8.47 CGPA ,WORK EX,3 months
+40,Anurag Shubham,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,329 ,TOEFL,114 ,UNDERGRAD,73.22 % ,WORK EX,18 months
+41,Anant Simran Singh,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,327 ,TOEFL,112 ,UNDERGRAD,7.9 CGPA ,WORK EX,26 months
+42,Yashvardhan Das,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,329 ,TOEFL,106 ,UNDERGRAD,88 % ,WORK EX,3 months
+43,Harsh Wani,Georgia Institute of Technology Computer Science,Fall 2018 ,Reject,GRE,329 ,TOEFL,109 ,UNDERGRAD,8.7 CGPA ,WORK EX,2 months
+44,VIEW ALL EVENTS,,,,,,,,,,,
+45,Q) What is Fast Track Event?,You can register online or by phone or by mail. The detailed information about registering for the GRE can be found at www.yocket.in,,,,,,,,,,
+46,Rutuja Rane,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,330 ,TOEFL,114 ,UNDERGRAD,9.01 CGPA ,WORK EX,NA
+47,Atmika Honnalgere,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,330 ,TOEFL,116 ,UNDERGRAD,8.33 CGPA ,WORK EX,42 months
+48,Prateek Goudar,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,324 ,TOEFL,105 ,UNDERGRAD,9.6 CGPA ,WORK EX,19 months
+49,Kaveesha Shah,Georgia Institute of Technology Computer Science,Fall 2018 ,Reject,GRE,327 ,TOEFL,102 ,UNDERGRAD,72 % ,WORK EX,14 months
+50,Samira,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,316 ,TOEFL,112 ,UNDERGRAD,9.5 CGPA ,WORK EX,NA
+51,Rx,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,320 ,TOEFL,116 ,UNDERGRAD,9.39 CGPA ,WORK EX,24 months
+52,Adarsh Srivastava,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,103 ,UNDERGRAD,70 % ,WORK EX,27 months
+53,Apurbaa Bhattacharjee,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,112 ,UNDERGRAD,9.5 CGPA ,WORK EX,43 months
+54,Hemant Holani,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,327 ,TOEFL,105 ,UNDERGRAD,72.29 % ,WORK EX,2 months
+55,Anirudh,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,327 ,TOEFL,113 ,UNDERGRAD,8.59 CGPA ,WORK EX,10 months
+56,Akash R,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,324 ,TOEFL,107 ,UNDERGRAD,8.81 CGPA ,WORK EX,NA
+57,Suchita Mukherjee,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,333 ,TOEFL,119 ,UNDERGRAD,8.99 CGPA ,WORK EX,33 months
+58,CHANDAN YADAV,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,316 ,TOEFL,97 ,UNDERGRAD,8.96 CGPA ,WORK EX,16 months
+59,Siddhant Shenoy,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,318 ,TOEFL,105 ,UNDERGRAD,9.127 CGPA ,WORK EX,7 months
+60,Srivathsa S,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,317 ,TOEFL,106 ,UNDERGRAD,80 % ,WORK EX,53 months
+61,mamta,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,323 ,TOEFL,108 ,UNDERGRAD,87.3 % ,WORK EX,14 months
+62,Akshay Kumar,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,318 ,TOEFL,112 ,UNDERGRAD,9.14 CGPA ,WORK EX,14 months
+63,Mohinish Chatterjee,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,318 ,TOEFL,110 ,UNDERGRAD,8.76 CGPA ,WORK EX,17 months
+64,Nitin Gupta,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,323 ,TOEFL,109 ,UNDERGRAD,80.02 % ,WORK EX,21 months
+65,Rahul Jeswani,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,333 ,TOEFL,116 ,UNDERGRAD,9.51 CGPA ,WORK EX,18 months
+66,VIEW ALL EVENTS,,,,,,,,,,,
+67,Q) What is Fast Track Event?,You can register online or by phone or by mail. The detailed information about registering for the GRE can be found at www.yocket.in,,,,,,,,,,
+68,Amit Ghetiya,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,101 ,UNDERGRAD,8.81 CGPA ,WORK EX,7 months
+69,Soumya Polisetty,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,327 ,TOEFL,104 ,UNDERGRAD,8.1 CGPA ,WORK EX,NA
+70,Nidhi,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,314 ,ENG TEST,NA ,UNDERGRAD,8.34 CGPA ,WORK EX,NA
+71,Omkar Patil,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,323 ,TOEFL,110 ,UNDERGRAD,9 CGPA ,WORK EX,31 months
+72,Rajath R D,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,317 ,TOEFL,106 ,UNDERGRAD,8 CGPA ,WORK EX,19 months
+73,Neeraj,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,112 ,UNDERGRAD,8.39 CGPA ,WORK EX,5 months
+74,Raksheet Bhat,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,325 ,TOEFL,110 ,UNDERGRAD,7.65 CGPA ,WORK EX,24 months
+75,Tanya,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,322 ,TOEFL,105 ,UNDERGRAD,8.5 CGPA ,WORK EX,36 months
+76,Namita Nair,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,323 ,TOEFL,118 ,UNDERGRAD,9.3 CGPA ,WORK EX,1 month
+77,Jay “Matrix7689” Parekh,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,314 ,TOEFL,106 ,UNDERGRAD,9.152 CGPA ,WORK EX,15 months
+78,Pratik Revankar,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,313 ,TOEFL,110 ,UNDERGRAD,8.72 CGPA ,WORK EX,7 months
+79,randomName,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,326 ,TOEFL,117 ,UNDERGRAD,76 % ,WORK EX,6 months
+80,Arush Nagpal,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,323 ,TOEFL,112 ,UNDERGRAD,8.86 CGPA ,WORK EX,18 months
+81,Harshit Passi,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,331 ,TOEFL,115 ,UNDERGRAD,67.07 % ,WORK EX,46 months
+82,Aakanksha Prasad,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,316 ,TOEFL,108 ,UNDERGRAD,8.07 CGPA ,WORK EX,24 months
+83,OKAY KCN PAGAL,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,319 ,TOEFL,110 ,UNDERGRAD,7.84 CGPA ,WORK EX,60 months
+84,Mugdha Govilkar,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,317 ,TOEFL,112 ,UNDERGRAD,9.28 CGPA ,WORK EX,9 months
+85,Utsav Das,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,334 ,TOEFL,120 ,UNDERGRAD,8.86 CGPA ,WORK EX,1 month
+86,Karnika Agarwal,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,107 ,UNDERGRAD,9.25 CGPA ,WORK EX,27 months
+87,Anushka Baoni,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,117 ,UNDERGRAD,9.14 CGPA ,WORK EX,14 months
+88,VIEW ALL EVENTS,,,,,,,,,,,
+89,Q) What is Fast Track Event?,You can register online or by phone or by mail. The detailed information about registering for the GRE can be found at www.yocket.in,,,,,,,,,,
+90,Jignesh Patel,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,332 ,TOEFL,114 ,UNDERGRAD,8.2 CGPA ,WORK EX,32 months
+91,Vinitha Raj,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,311 ,TOEFL,104 ,UNDERGRAD,9.1 CGPA ,WORK EX,23 months
+92,Indumathi,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,319 ,TOEFL,100 ,UNDERGRAD,8.4 CGPA ,WORK EX,NA
+93,Sidharth Sethia,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,326 ,TOEFL,101 ,UNDERGRAD,8.08 CGPA ,WORK EX,24 months
+94,Vinay Damodaran,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,331 ,TOEFL,115 ,UNDERGRAD,7.72 CGPA ,WORK EX,21 months
+95,Ashwin Deshpande,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,102 ,UNDERGRAD,7.4 CGPA ,WORK EX,NA
+96,Paras Sharma,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,322 ,TOEFL,114 ,UNDERGRAD,9.55 CGPA ,WORK EX,23 months
+97,Mrinal Jain,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,317 ,TOEFL,109 ,UNDERGRAD,9.21 CGPA ,WORK EX,2 months
+98,Anand,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,323 ,IELTS,8 ,UNDERGRAD,9.1 CGPA ,WORK EX,20 months
+99,umar farooq,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,311 ,TOEFL,105 ,UNDERGRAD,82 % ,WORK EX,8 months
+100,Sudarsan Balaji,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,310 ,TOEFL,105 ,UNDERGRAD,7.57 CGPA ,WORK EX,NA
+101,Mohit Nihalani,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,111 ,UNDERGRAD,9 CGPA ,WORK EX,6 months
+102,All American Rejects,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,317 ,TOEFL,110 ,UNDERGRAD,8.4 CGPA ,WORK EX,28 months
+103,Akansha Agarwal,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,106 ,UNDERGRAD,8.9 CGPA ,WORK EX,5 months
+104,Niveditha,Georgia Institute of Technology Computer Science,Fall 2018 ,Reject,GRE,326 ,TOEFL,117 ,UNDERGRAD,9.13 CGPA ,WORK EX,13 months
+105,Prakhar Kulshreshtha,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,330 ,TOEFL,108 ,UNDERGRAD,9 CGPA ,WORK EX,20 months
+106,Incognito,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,317 ,TOEFL,114 ,UNDERGRAD,8.7 CGPA ,WORK EX,11 months
+107,Satwik,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,320 ,TOEFL,107 ,UNDERGRAD,8.75 CGPA ,WORK EX,NA
+108,PARTH SHAH,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,317 ,TOEFL,100 ,UNDERGRAD,8.17 CGPA ,WORK EX,NA
+109,M S SANJAY, Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,320 ,TOEFL,104 ,UNDERGRAD,9.66 CGPA ,WORK EX,2 months
+110,VIEW ALL EVENTS,,,,,,,,,,,
+111,Q) What is Fast Track Event?,You can register online or by phone or by mail. The detailed information about registering for the GRE can be found at www.yocket.in,,,,,,,,,,
+112,Geetha Rani,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,316 ,TOEFL,113 ,UNDERGRAD,7.5 CGPA ,WORK EX,30 months
+113,Brij Malhotra,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,315 ,TOEFL,102 ,UNDERGRAD,8.43 CGPA ,WORK EX,27 months
+114,Madhusmita Dash,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,325 ,TOEFL,111 ,UNDERGRAD,9.38 CGPA ,WORK EX,16 months
+115,Vineet Makharia,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,320 ,TOEFL,109 ,UNDERGRAD,78 % ,WORK EX,NA
+116,Amala Babu,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,319 ,TOEFL,113 ,UNDERGRAD,8.47 CGPA ,WORK EX,14 months
+117,Prashanth Reddy,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,325 ,TOEFL,111 ,UNDERGRAD,8.7 CGPA ,WORK EX,7 months
+118,Rajwinder Singh,Georgia Institute of Technology Computer Science,Fall 2018 ,Reject,GRE,322 ,TOEFL,111 ,UNDERGRAD,9.23 CGPA ,WORK EX,NA
+119,Laxmaan Balaji,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,331 ,TOEFL,115 ,UNDERGRAD,8.4 CGPA ,WORK EX,2 months
+120,Divyansh Jha,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,107 ,UNDERGRAD,8.42 CGPA ,WORK EX,15 months
+121,Harshita K,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,323 ,TOEFL,116 ,UNDERGRAD,8.59 CGPA ,WORK EX,20 months
+122,Malabika Sen,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,320 ,TOEFL,102 ,UNDERGRAD,8.79 CGPA ,WORK EX,13 months
+123,Mayura Nene,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,321 ,TOEFL,106 ,UNDERGRAD,8.65 CGPA ,WORK EX,16 months
+124,Adarsh,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE, N.A. ,ENG TEST,NA ,UNDERGRAD,8.576 CGPA ,WORK EX,21 months
+125,Shivank Tiwari,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,319 ,TOEFL,104 ,UNDERGRAD,9 CGPA ,WORK EX,NA
+126,yogesh verma,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,318 ,TOEFL,100 ,UNDERGRAD,6.8 CGPA ,WORK EX,30 months
+127,Srinidhi Bhat,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,322 ,TOEFL,110 ,UNDERGRAD,8.66 CGPA ,WORK EX,18 months
+128,Aishwarya Donegiri,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,318 ,TOEFL,105 ,UNDERGRAD,87.65 % ,WORK EX,5 months
+129,Bharat Gaind,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,326 ,TOEFL,116 ,UNDERGRAD,8.775 CGPA ,WORK EX,30 months
+130,Videsh Suman,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,320 ,TOEFL,106 ,UNDERGRAD,7.43 CGPA ,WORK EX,2 months
+131,karan maheshwari,Georgia Institute of Technology Computer Science,Fall 2019 ,Reject,GRE,326 ,TOEFL,116 ,UNDERGRAD,9.2 CGPA ,WORK EX,2 months
